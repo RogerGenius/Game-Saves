@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Game_remote>
+	<LUT />
+	<GUI preset="Custom" version="7">
+		<LockCursorToWindow>false</LockCursorToWindow>
+		<LockCursorToFullscreen>true</LockCursorToFullscreen>
+		<ShowIconsOverBuildings>true</ShowIconsOverBuildings>
+		<ShowIconsOverDinosaurs>true</ShowIconsOverDinosaurs>
+		<ShowIconsOverVehicles>true</ShowIconsOverVehicles>
+		<DisableOnceOnlyHelp>false</DisableOnceOnlyHelp>
+		<IconFadeStart>200.000000</IconFadeStart>
+		<IconFadeDistance>400.000000</IconFadeDistance>
+		<ZoomIntoSelectedBuilding>true</ZoomIntoSelectedBuilding>
+		<ZoomIntoSelectedVehicle>true</ZoomIntoSelectedVehicle>
+		<ShowTerrainContoursDuringTerrainEdit>true</ShowTerrainContoursDuringTerrainEdit>
+		<ShowTerrainContoursDuringConstruction>false</ShowTerrainContoursDuringConstruction>
+		<MinimiseNotifications>false</MinimiseNotifications>
+		<AutosaveInterval>5</AutosaveInterval>
+		<NextGenPresentInterval>1</NextGenPresentInterval>
+	</GUI>
+	<Volatile preset="Custom" version="13">
+		<BuildingCurvedPaths>false</BuildingCurvedPaths>
+		<BuildingCurvedWalls>false</BuildingCurvedWalls>
+		<BuildingRotationSnap>false</BuildingRotationSnap>
+		<BuildingRandomRotation>true</BuildingRandomRotation>
+		<BuildingElectricFences>false</BuildingElectricFences>
+		<BuildingPathWidth>6.000000</BuildingPathWidth>
+		<BuildingLastPathType>buildelement:PAT_Small</BuildingLastPathType>
+		<BuildingLastWallType>buildelement:WAL_Small_Electric_DFW</BuildingLastWallType>
+		<MuteCarRadio>false</MuteCarRadio>
+		<EnableCareerIntroductions>false</EnableCareerIntroductions>
+		<DemolishBrushMode>false</DemolishBrushMode>
+		<DemolishBrushRadius>40.000000</DemolishBrushRadius>
+		<DemolishDisabledTypes>0</DemolishDisabledTypes>
+		<ShowSpeciesCompatibility>false</ShowSpeciesCompatibility>
+	</Volatile>
+</Game_remote>

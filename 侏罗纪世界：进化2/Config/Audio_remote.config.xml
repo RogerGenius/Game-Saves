@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Audio_remote>
+	<Volume preset="Custom" version="6">
+		<Volume>100.000000</Volume>
+		<SFXVolume>100.000000</SFXVolume>
+		<MusicVolume>100.000000</MusicVolume>
+		<VoiceVolume>100.000000</VoiceVolume>
+		<VOBoost>false</VOBoost>
+		<Rumble>true</Rumble>
+		<MuteLicensedMusic>false</MuteLicensedMusic>
+		<EnableSubtitles>true</EnableSubtitles>
+	</Volume>
+</Audio_remote>

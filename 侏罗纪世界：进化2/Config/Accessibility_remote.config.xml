@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Accessibility_remote>
+	<Accessibility preset="Custom" version="1">
+		<HideSubtitlesInFullscreenUI>false</HideSubtitlesInFullscreenUI>
+		<SubtitlesSize>3.000000</SubtitlesSize>
+		<SubtitlesBackgroundOpacity>0.000000</SubtitlesBackgroundOpacity>
+		<SubtitlesUseSpeakerColors>true</SubtitlesUseSpeakerColors>
+		<ColourBlindness>Normal</ColourBlindness>
+		<HUDOpacity>45</HUDOpacity>
+		<ResetGameSpeedWhenCalamityOccurs>false</ResetGameSpeedWhenCalamityOccurs>
+		<DinosaurHighlight>false</DinosaurHighlight>
+		<DinosaurHighlightACUDistance>500</DinosaurHighlightACUDistance>
+		<DinosaurHighlightRangerDistance>220</DinosaurHighlightRangerDistance>
+		<DinosaurHighlightOpacity>100</DinosaurHighlightOpacity>
+		<DinosaurHighlightColourBlindness>Normal</DinosaurHighlightColourBlindness>
+		<GuestCamReticle>false</GuestCamReticle>
+	</Accessibility>
+</Accessibility_remote>
