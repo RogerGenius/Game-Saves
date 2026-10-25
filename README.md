@@ -10,6 +10,7 @@ Steam ID：指自己的Steam好友代码。
 - STEINS;GATE 0：文档\My Games\mages_steam\STEINS GATE 0\zhc
 - STEINS;GATE：文档\My Games\mages_steam\STEINS;GATE\zhc
 - Summer Pockets：Steam安装目录\steamapps\common\Summer Pockets\savedata_zh
+- Summer Pockets REFLECTION BLUE：Steam安装目录\userdata\Steam ID\3418570\remote
 - 《消逝的光芒：困兽》：Steam安装目录\userdata\Steam ID\3008130\remote\out
 - 不/存在的你，和我：C:\Users\用户名\AppData\LocalLow\Nino\TheNOexistenceNofyouANDme\NaninovelData\Saves
 - 侏罗纪世界：进化 2：保存的游戏\Frontier Developments\Jurassic World Evolution 2
